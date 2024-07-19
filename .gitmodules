@@ -1,0 +1,3 @@
+[submodule "FineWeather"]
+	path = FineWeather
+	url = https://github.com/heartofstone-store/FineWeatherForecaster

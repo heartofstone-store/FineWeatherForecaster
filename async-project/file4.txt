@@ -1,0 +1,2 @@
+Content of file 4.
+This file can be read asynchronously during the script execution.
