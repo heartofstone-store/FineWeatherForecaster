@@ -1,0 +1,2 @@
+Content for file 2.
+More lines can be added here.

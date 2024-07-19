@@ -1,0 +1,12 @@
+[
+    {
+        "name": "AlertPlugin",
+        "type": "alert",
+        "message": "Hello, this is an alert plugin!"
+    },
+    {
+        "name": "ConsoleLogPlugin",
+        "type": "log",
+        "message": "This message is logged to the console."
+    }
+]
